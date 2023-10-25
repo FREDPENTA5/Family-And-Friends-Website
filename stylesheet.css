@@ -20,6 +20,7 @@ h1 {
 nav {
     background-color: #333;
     height: 2rem;
+    border-radius: 2rem;
    
 }
 
@@ -53,6 +54,7 @@ nav ul li a:hover {
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 2rem;
 }
 
 
