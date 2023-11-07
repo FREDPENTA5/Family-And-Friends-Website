@@ -9,8 +9,8 @@ body {
 header {
     background-color: #007bff;
     color: #fff;
-    padding: 10px 0;
     text-align: center;
+    padding: 10px 0;
 }
 h1 {
     margin: 0;
@@ -24,6 +24,7 @@ nav {
 }
 
 nav ul {
+    position: absolute;
     list-style-type: none;
     margin: 0;
     padding: 0;
